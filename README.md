@@ -1,8 +1,7 @@
 <h1 align="center">[TUTORIAL VIDEO]</h1>
 
 ###
-
-<p align="center">[TUTORIAL VIDEO](https://www.youtube.com/watch?v=QGzmfxKE_Tk)</p>
+<p align="center">[TUTORIAL VIDEO](https://www.youtube.com/watch?v=RRGpjISrxr4)</p>
 
 ###
 
