@@ -15,9 +15,11 @@
 
 ###
 
-<p align="left">1920 1080, 100 scale, 3x-5x speed</p>
+<p align="left">1920 1080, 100 scale, 3x-5x speed, continous playback on</p>
 
 ![Logo](https://i.postimg.cc/7L3ypCNq/image-2025-05-14-121327440.png)
+
+Start when you first join
 
 ###
 
